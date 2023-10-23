@@ -4,7 +4,7 @@ Hello! I'm a web developer who has always been passionate about content creation
 
 ## About Me
 
-I've always been passionate about content creation and technology, and that's when I decided to channel all my focus into programming, where I could combine the things I love the most. At the moment, I'm familiar with a tool stack that includes React, Redux, Node, Express, Sequelize, and PostgreSQL. I strive to expand my knowledge every day by learning new skills and technologies to enhance my creations.
+At the moment, I'm familiar with a tool stack that includes React, Redux, Node, Express, Sequelize, and PostgreSQL. I strive to expand my knowledge every day by learning new skills and technologies to enhance my creations.
 
 Feel free to get in touch with me to exchange knowledge and experiences.
 
