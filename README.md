@@ -32,6 +32,6 @@ Feel free to get in touch with me to exchange knowledge and experiences.
 
 You can find me on LinkedIn, don't hesitate to connect and send me a message!
 
-[![LinkedIn](https://raw.githubusercontent.com/linkedin/inicons/master/originals/linkedin.svg)](https://www.linkedin.com/in/lautaro-mateo-leguizamon-35b902279/)
+<img src="https://raw.githubusercontent.com/linkedin/inicons/master/originals/linkedin.svg" href="https://www.linkedin.com/in/lautaro-mateo-leguizamon-35b902279/" width="20">
 
 I look forward to the opportunity to collaborate with you on exciting projects! 😄
