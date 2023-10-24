@@ -34,6 +34,6 @@ You can find me on LinkedIn, don't hesitate to connect and send me a message!
 
 <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk4Mi1kMS0xMC5wbmc.png?s=8TW_iisJkPrxbWNOpMAv2CABwGf9HomNFQwxGELp4Zc" href="https://www.linkedin.com/in/lautaro-mateo-leguizamon-35b902279/" width="20">
 
-<img src="https://w7.pngwing.com/pngs/975/579/png-transparent-ipma-email-telephone-message-email-icon-miscellaneous-angle-telephone-call-thumbnail.png" witdh="20"> lautaromateol@gmail.com
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="20"> lautaromateol@gmail.com
 
 I look forward to the opportunity to collaborate with you on exciting projects! 😄
