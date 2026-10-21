@@ -1,6 +1,6 @@
 # Lautaro Mateo Leguizamón - Web Developer
 
-Hello! I'm a web developer who has always been passionate about content creation and technology. It was when I decided to channel all my focus into programming, where I could combine the things I love the most.
+Hello! I'm a web developer who has always been passionate about technology. It was when I decided to channel all my focus into programming, where I could combine the things I love the most.
 
 ## About Me
 
